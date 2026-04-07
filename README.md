@@ -46,7 +46,7 @@ The analysis was guided by the following questions:
 
 The full SQL script used for this analysis is available in the repository:
 
-📂 `fraud_risk_analysis.sql`
+Fraud_Risk_Analysis.sql
 
 ## Key Insights
 
